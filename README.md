@@ -8,7 +8,7 @@ Tujuannya adalah untuk memudahkan pemantauan data antar instansi pemerintahan se
 ## 📸 Tampilan Beranda
 Berikut adalah tampilan awal aplikasi:
 
-![Tampilan Beranda](media-1.png)
+![Tampilan Beranda](Media-1.png)
 
 ---
 
