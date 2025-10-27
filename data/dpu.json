@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nama_jalan": "Jl. Soekarno Hatta", "status": "Perbaikan", "kota": "Bandung" },
+    { "id": 2, "nama_jalan": "Jl. Braga", "status": "Selesai", "kota": "Bandung" },
+    { "id": 3, "nama_jalan": "Jl. Pasteur", "status": "Dalam pengerjaan", "kota": "Bandung" }
+]

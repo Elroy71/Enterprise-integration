@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nama": "RSUD Bandung", "status": "Aktif", "lokasi": "Kiaracondong" },
+    { "id": 2, "nama": "Puskesmas Babakan", "status": "Aktif", "lokasi": "Babakan Sari" },
+    { "id": 3, "nama": "Klinik Sehati", "status": "Tidak Aktif", "lokasi": "Buah Batu" }
+]

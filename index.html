@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard Integrasi Pemerintah Kota</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <header>
+        <h1>🏛️ Dashboard Integrasi Pemerintah Kota</h1>
+        <p>Memantau data lintas dinas secara terpadu</p>
+    </header>
+
+    <main>
+        <section id="summary">
+        <div class="card" id="dpd">Dinas Pendapatan Daerah</div>
+        <div class="card" id="dpu">Dinas Pekerjaan Umum</div>
+        <div class="card" id="dinkes">Dinas Kesehatan</div>
+        <div class="card" id="disduk">Dinas Kependudukan</div>
+        </section>
+
+        <section id="details">
+        <h2>📊 Detail Data Terpadu</h2>
+        <pre id="output">Klik salah satu dinas di atas...</pre>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Sistem Integrasi Pemerintah Kota</p>
+    </footer>
+
+    <!-- Panggil semua service dulu -->
+    <script src="js/dpd.js"></script>
+    <script src="js/dpu.js"></script>
+    <script src="js/dinkes.js"></script>
+    <script src="js/disduk.js"></script>
+
+    <!-- Baru panggil gateway (yang menggabungkan semuanya) -->
+    <script src="js/gateway.js"></script>
+
+    <!-- Terakhir: app.js untuk kontrol UI -->
+    <script src="js/app.js"></script>
+    </body>
+</html>

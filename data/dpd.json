@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nama_sekolah": "SMA Negeri 1 Bandung", "jenis": "Negeri", "kota": "Bandung" },
+    { "id": 2, "nama_sekolah": "SMP Kristen Petra", "jenis": "Swasta", "kota": "Bandung" },
+    { "id": 3, "nama_sekolah": "SD Cendekia", "jenis": "Swasta", "kota": "Cimahi" }
+]

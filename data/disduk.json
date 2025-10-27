@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nama": "Penduduk Baru", "keterangan": "Warga pindahan dari luar kota", "kecamatan": "Coblong" },
+    { "id": 2, "nama": "Pembuatan KTP", "keterangan": "Proses selesai", "kecamatan": "Antapani" },
+    { "id": 3, "nama": "Perubahan KK", "keterangan": "Dalam proses", "kecamatan": "Arcamanik" }
+]
